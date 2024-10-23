@@ -124,7 +124,3 @@ These dependencies will be automatically installed when using the Arduino Librar
 
 This library is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contribution
-
-Contributions are welcome! Please submit issues and pull requests via the [GitHub repository](https://github.com/your-repo-url).
-
