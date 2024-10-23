@@ -31,7 +31,7 @@ Both libraries will be automatically installed if you install `spreLgfxTouch` th
 
 ### Manual Installation
 
-1. Download the `spreLgfxTouch` library from the [GitHub repository](https://github.com/your-repo-url).
+1. Download the `spreLgfxTouch` library from the [GitHub repository](https://github.com/chrmlinux/spreLgfxTouch).
 2. Extract the downloaded ZIP file.
 3. Copy the `spreLgfxTouch` folder into the `libraries` folder of your Arduino directory (usually `Documents/Arduino/libraries`).
 
